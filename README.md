@@ -30,7 +30,7 @@ Este projeto apresenta uma análise exploratória de dados sobre a pandemia da C
 
 Acesse o dashboard interativo:
 
-**[https://public.tableau.com/SEU-LINK-AQUI](https://public.tableau.com/views/COVID_17840638375240/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+*https://www.linkedin.com/in/isabellabmpassos/*
 
 
 ## 👩‍💻 Autora
