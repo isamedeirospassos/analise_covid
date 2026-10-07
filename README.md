@@ -1,42 +1,24 @@
-# 📊 Análise da COVID-19 e Vacinação
+# Análise da COVID-19 e vacinação
 
-## 📌 Sobre o projeto
+Projeto de análise de dados utilizando Python e Tableau para visualizar a evolução da COVID-19 e da vacinação em países da América Latina.
 
-Este projeto apresenta uma análise exploratória de dados sobre a pandemia da COVID-19 utilizando o Tableau. O objetivo é visualizar a evolução da doença e avaliar o impacto da vacinação por meio de indicadores e gráficos interativos.
+## Análises realizadas
 
-## 🎯 Objetivos
+- Evolução dos casos e mortes por COVID-19.
+- Comparação dos dados antes e após o início da vacinação.
+- Acompanhamento do número de pessoas vacinadas.
+- Comparação dos indicadores entre países da América Latina.
 
-- Analisar a evolução dos casos de COVID-19.
-- Comparar o número de mortes antes e após o início da vacinação.
-- Acompanhar o progresso da vacinação ao longo do tempo.
-- Identificar tendências relacionadas a novos casos e óbitos.
+## Ferramentas utilizadas
 
-## 📈 Indicadores analisados
+Python, Tableau Public, Excel/CSV, Git e GitHub.
 
-- 💉 Pessoas vacinadas
-- 🦠 Novos casos de COVID-19
-- ⚰️ Novas mortes
-- 🌍 Comparação entre países da América Latina
+## Dashboard
 
-## 🛠️ Ferramentas utilizadas
+[Visualizar análise no Tableau Public](https://public.tableau.com/views/COVID_17840638375240/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-- Python
-- Tableau Public
-- Excel / CSV
-- Git
-- GitHub
-
-## 🔗 Dashboard
-
-Acesse o dashboard interativo:
-
-*https://public.tableau.com/views/COVID_17840638375240/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
-
-
-## 👩‍💻 Autora
+## Autora
 
 Isabella Passos
 
-LinkedIn: [https://linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/isabellabmpassos/)
-
-GitHub: https://github.com/isamedeirospassos
+[GitHub](https://github.com/isamedeirospassos/analise_covid)
